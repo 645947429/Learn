@@ -1,0 +1,10 @@
+//
+//  CommonConfig.xcconfig
+//  ConfigureEnvironment
+//
+//  Created by 张宏伟 on 2017/10/12.
+//  Copyright © 2017年 张宏伟. All rights reserved.
+//
+
+// 版本号
+BUILD_VERSION = 1.0.0
